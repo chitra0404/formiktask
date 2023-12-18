@@ -4,7 +4,7 @@ import axios from "axios"
 import * as yup from "yup";
 import { Link, useNavigate } from 'react-router-dom';
 import Edit from './Edit';
-import EditAuthor from './EditAuthor';
+
 
 function Author() {
   const [user,setUser]=useState([

@@ -1,7 +1,7 @@
 import React from 'react'
 import { BarChart } from './BarChart';
 
- import { PieChart } from '../../PieChart';
+ import { PieChart } from './PieChart';
 
 
 function Dashboard() {
